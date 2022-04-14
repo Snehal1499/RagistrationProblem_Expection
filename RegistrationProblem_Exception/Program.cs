@@ -6,7 +6,9 @@ namespace RegistrationProblem_Exception
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome To User Registration Problem");
+            Console.WriteLine("User Resitration using Exceptions");
         }
     }
 }
+
